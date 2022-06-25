@@ -1,5 +1,6 @@
 # Hi there 👋 <br> I'm Tim Wibiral
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Software+Developer;AI+Enthusiast;ML+Engineer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Software+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
 ## 🔧 Languages and Tools
 
