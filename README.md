@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Software+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
----
-
 Currently studying M.Sc. Artifical Intelligence at [Ulm University](https://www.uni-ulm.de/en/)
 
 ## 🔧 Languages and Tools
