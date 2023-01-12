@@ -35,13 +35,13 @@ Currently studying M.Sc. Artificial Intelligence at [Ulm University](https://www
 
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=twibiral&show_icons=true&count_private=true" />
+  <img align="center" alt="Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=twibiral&show_icons=true&count_private=true" />
 </a>
 
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twibiral&layout=compact"/>
+  <img align="center" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=twibiral&layout=compact"/>
 </a>
 </div>
 
