@@ -57,7 +57,5 @@ Currently studying M.Sc. Artificial Intelligence at [Ulm University](https://www
 </div>
 
 
-
-<div align="center">
-  [Click here to find out more about infinite loops!](https://github.com/twibiral)
-</div>
+<br><br><br>
+<div align="center"><a href="https://github.com/twibiral">Click here to find out more about infinite loops!</a></div>
