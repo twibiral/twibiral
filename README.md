@@ -6,7 +6,7 @@ Currently studying M.Sc. Artificial Intelligence at [Ulm University](https://www
 <br><br>
 
 <div>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=twibiral&show_icons=true&count_private=true" />
 </a>
 
