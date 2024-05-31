@@ -1,8 +1,11 @@
-# Hi there 👋 <br> I'm Tim Wibiral
+# Hi there 👋 <br> I'm Tim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Data+Scientist;AI+Enthusiast)](https://git.io/typing-svg)
 
-Currently studying M.Sc. Artificial Intelligence at [Ulm University](https://www.uni-ulm.de/en/) in Germany.
+Currently working on my masters thesis for my M.Sc. Artificial Intelligence at [Ulm University](https://www.uni-ulm.de/en/) in Germany. The thesis is done in collaboration with Porsche.
+
+Afterward, I plan on doing a PhD in explainable AI or computer vision (if you have or know about an open position in that field, I would love to hear about it 😄).
+
 <br><br>
 
 <div>
