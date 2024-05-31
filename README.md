@@ -6,6 +6,8 @@ Currently working on my masters thesis for my M.Sc. Artificial Intelligence at [
 
 Afterward, I plan on doing a PhD in explainable AI/computer vision (if you have or know about an open position in that field, I would love to hear about it 😄).
 
+Email: contact@tim-wibiral.de
+
 <br><br>
 
 <div>
