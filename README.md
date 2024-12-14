@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Data+Scientist;Software+Engineer;Deep+Learning+Researcher)](https://git.io/typing-svg)
 
-Email: contact@tim-wibiral.de
 
 <br><br>
 
@@ -18,6 +17,8 @@ Email: contact@tim-wibiral.de
 </a>
 </div>
 
+
+Email: contact@tim-wibiral.de
 
 <br><br><br><br><br>
 
