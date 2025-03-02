@@ -21,6 +21,3 @@
 
 Email: contact@tim-wibiral.de
 
-<br><br><br><br><br>
-
-<div align="center"><a href="https://github.com/twibiral">Click here to find out more about infinite loops!</a></div>
